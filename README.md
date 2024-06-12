@@ -1,7 +1,9 @@
-Working Links for the Project
+# <b>Working Links for the Project</b>
 
-*Web Application hosted on Azure* -> <a href = "http://98.70.72.77/" rel ="nofollow"> HR Management</a>
+<b>Web Application hosted on Azure</b> -> <a href = "http://98.70.72.77/" rel ="nofollow"> HR Management</a>
 
-*Project Video* ->  <a href = "" rel ="nofollow"> Video </a>
+<b>Project Video</b> ->  <a href = "" rel ="nofollow"> Video </a>
 
-Project Documentation -> <a href = "" rel ="nofollow"> Documentation </a>
+<b>Project Documentation</b> -> <a href = "" rel ="nofollow"> Documentation </a>
+
+
