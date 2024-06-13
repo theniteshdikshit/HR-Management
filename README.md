@@ -29,7 +29,7 @@ Azure AI Service (An ai service(chatbot) integrated into the website)
 
 Azure BackUp Service (To create a Backup of our Web App)
 
-
+Monitoring Service (To create a alert Rule)
 
 # Resource Visualizer
 ![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/8f0bdf9b-7068-42af-b3f7-038d3523e19e)
