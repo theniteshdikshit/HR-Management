@@ -243,10 +243,12 @@ Copy All The Project Files In The Virtual Machine
 
 ![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/7e15ec43-ce6f-4141-8eb8-155da9fdf154)
 
+
+
 # WebSite Preview 
 
 
-Our Website Homepage 
+       Our Website Homepage 
 
 ![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/41f85d47-05df-4fa6-b50c-9a1eaa8cd4c7)
 
