@@ -2,9 +2,9 @@
 
 <b>Web Application hosted on Azure</b> -> <a href = "http://98.70.72.77/" rel ="nofollow"> HR Management</a>
 
-<b>Project Video</b> ->  <a href = "" rel ="nofollow"> Video </a>
+<b>Project Video</b> ->  <a href = "https://drive.google.com/file/d/11Dje---ulXxQMRgkJq4txb4-wnL-dQWP/view?usp=sharing" rel ="nofollow"> Video </a>
 
-<b>Project Documentation</b> -> <a href = "" rel ="nofollow"> Documentation </a>
+<b>Project Documentation</b> -> <a href = "https://drive.google.com/file/d/1Ij9grLVdDaeVaTM0Jq5eeqFaD05SRTBH/view?usp=sharing" rel ="nofollow"> Documentation </a>
 
 # Project Aim
 
