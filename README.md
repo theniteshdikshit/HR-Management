@@ -37,7 +37,7 @@ Azure BackUp Service (To create a Backup of our Web App)
 
 # Azure Resources Overview
 
-Create a Virtual Machine
+    Create a Virtual Machine
 
 ![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/4b0d5990-dc9c-43e0-8754-eb8f4b213cbe)
 
@@ -59,7 +59,7 @@ Created Virtual Machine
 
 ![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/8060e5dc-937f-4ac7-815f-7743fb80c2b4)
 
-Copy All The Project Files In The Virtual Machine
+    Copy All The Project Files In The Virtual Machine
 
 ![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/845d9a4d-a813-403b-9955-3c4b4f851a9b)
 
