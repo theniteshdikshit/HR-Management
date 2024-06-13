@@ -73,6 +73,7 @@ Copy All The Project Files In The Virtual Machine
 
 ![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/2f7c8c45-acb2-479c-a675-305b6849693e)
 
+
 ![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/463ea13d-af90-4578-bce9-a4884766dacc)
 
 ![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/30eef23d-9251-4e48-b1c1-4ba112ac1411)
