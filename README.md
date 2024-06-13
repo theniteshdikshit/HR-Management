@@ -6,6 +6,34 @@
 
 <b>Project Documentation</b> -> <a href = "" rel ="nofollow"> Documentation </a>
 
+# Project Aim
+
+The aim of implementing an employee management system using Azure services is to create a scalable, reliable, and secure solution that optimizes HR processes while leveraging Azure's cloud infrastructure, comprehensive security features, and integration capabilities. By utilizing Azure services for scalability, reliability, security, and integration, organizations can streamline HR operations, ensure compliance, and enhance decision-making through data analytics, ultimately improving efficiency, reducing costs, and enhancing the employee experience.
+
+# Web Tecnologies Used
+1.HTML
+
+2.CSS
+
+3.JavaScript
+
+4.PHP
+
+5.MySQl
+
+# Azure Services Used
+Azure Virtual Machine
+
+
+Azure AI Service (An ai service(chatbot) integrated into the website)
+
+Azure BackUp Service (To create a Backup of our Web App)
+
+
+
+# Resource Visualizer
+![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/8f0bdf9b-7068-42af-b3f7-038d3523e19e)
+
 
 # Azure Resources Overview
 
@@ -213,6 +241,36 @@ Copy All The Project Files In The Virtual Machine
 
 
 ![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/7e15ec43-ce6f-4141-8eb8-155da9fdf154)
+
+# WebSite Preview 
+
+
+Our Website Homepage 
+
+![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/41f85d47-05df-4fa6-b50c-9a1eaa8cd4c7)
+
+
+ Employee Login Page
+
+![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/4302d357-3a4c-425e-b539-bfd79e3757c9)
+
+
+Admin Login Page
+![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/7958f61e-9e3b-45b5-9543-bb4932dca123)
+
+Ems Home Page
+![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/f29f5861-e057-4157-9ae0-bb8f666f06c1)
+
+Add Employee page
+![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/09b2ef2e-6166-4dec-9a92-a7366ca80b92)
+
+Assign Project
+![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/3668a90b-507a-4365-8a48-ae323ceb44ef)
+
+
+Azure AI Chat-Bot Services
+![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/650bc812-1a41-45e5-9085-6390815f5cd3)
+
 
 
 
