@@ -33,7 +33,8 @@ Azure BackUp Service (To create a Backup of our Web App)
 Monitoring Service (To create a alert Rule)
 
 # Resource Visualizer
-![image](https://github.com/theniteshdikshit/HR-Management/assets/126328509/8f0bdf9b-7068-42af-b3f7-038d3523e19e)
+![RG1](https://github.com/theniteshdikshit/HR-Management/assets/139432498/ec864326-98e5-4421-b38a-b76fdb39ea0c)
+
 
 
 # Azure Resources Overview
