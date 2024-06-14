@@ -22,6 +22,7 @@ The aim of implementing an employee management system using Azure services is to
 5.MySQl
 
 # Azure Services Used
+
 Azure Virtual Machine
 
 
